@@ -30,3 +30,8 @@
   5. Run twitter_streaming.py to stream tweets from twitter and publish to kafka topic
   6. Run twitter_consuming_elastic_search.py to consume and ingect the tweets to Elastic search 
      Go through elastic search python package doumentation to learn more 
+     
+     
+     
+     
+ ##Note : Make sure to replace the credentials in configurations.ini, :) my credentials won't work for you, I already regenerated my tokens LOL :)
