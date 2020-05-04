@@ -1,5 +1,4 @@
-tweepy
-requests
-kafka
-kafka-python
-elasticsearch
+tweepy==3.8.0
+kafka==1.3.5
+kafka-python==2.0.1
+elasticsearch==7.6.0
