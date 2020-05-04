@@ -1,0 +1,5 @@
+tweepy
+requests
+kafka
+kafka-python
+elasticsearch
