@@ -28,7 +28,7 @@
   4. Install Apache Kafka (kafka needs to have zookeeper too)
       download kafka from "https://kafka.apache.org/downloads.html"
   5. Run twitter_streaming.py to stream tweets from twitter and publish to kafka topic
-  6. Run twitter_consuming_elastic_search.py to consume and ingect the tweets to Elastic search 
+  6. Run twitter_consuming_elastic_search.py to consume and ingect the tweets to Elastic search.
      Go through elastic search python package doumentation to learn more 
      
      
